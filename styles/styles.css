@@ -1,17 +1,18 @@
-*{	
-	box-sizing: border-box;
-	margin: 0;
-	padding: 0;
+* {
+	margin: 1rem;	
 }
 
 body {
 	background-color: rgb(220, 223, 241);
 	font-size: 20px;
-	padding: 0 auto;	
+}
+
+h1 {
+	border-bottom: 10px dotted green;
+	padding-left: 1rem;
 }
 
 img {
-	height: 300px;
-	width: 300px;
-	padding: 0 auto;
+	height: 500px;
+	width: 500px;
 }
