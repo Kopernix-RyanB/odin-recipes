@@ -9,10 +9,13 @@ body {
 
 h1 {
 	border-bottom: 10px dotted green;
-	padding-left: 1rem;
+	padding: 1rem;
 }
 
 img {
+	display: block;
 	height: 500px;
 	width: 500px;
+	margin: auto;
+	padding: 2rem;
 }
